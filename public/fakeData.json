@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "Virat Kohli",
+      "nationality": "India",
+      "rating": 94,
+      "position": "Batsman",
+      "batingposition": "Top Order",
+      "bowlingposition": "None",
+      "price": 1500000,
+      "image": "https://i.ibb.co.com/wJL5syb/Virat-Kohli.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Joe Root",
+      "nationality": "England",
+      "rating": 91,
+      "position": "Batsman",
+      "batingposition": "Middle Order",
+      "bowlingposition": "Off Spin",
+      "price": 1400000,
+      "image": "https://i.ibb.co.com/VB18K9y/Joe-Root.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pat Cummins",
+      "nationality": "Australia",
+      "rating": 92,
+      "position": "Bowler",
+      "batingposition": "Lower Order",
+      "bowlingposition": "Fast",
+      "price": 1300000,
+      "image": "https://i.ibb.co.com/74tXVkq/Pat-Cummins.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "nationality": "New Zealand",
+      "rating": 89,
+      "position": "Batsman",
+      "batingposition": "Top Order",
+      "bowlingposition": "Off Spin",
+      "price": 1350000,
+      "image": "https://i.ibb.co.com/KxcJw6z/Kane-Williamson.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Babar Azam",
+      "nationality": "Pakistan",
+      "rating": 93,
+      "position": "Batsman",
+      "batingposition": "Top Order",
+      "bowlingposition": "None",
+      "price": 1450000,
+      "image": "https://i.ibb.co.com/F8JgXY9/Babar-Azam.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rashid Khan",
+      "nationality": "Afghanistan",
+      "rating": 90,
+      "position": "All-Rounder",
+      "batingposition": "Lower Order",
+      "bowlingposition": "Leg Spin",
+      "price": 1250000,
+      "image": "https://i.ibb.co.com/Q9q6mNd/Rashid-Khan.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Quinton de Kock",
+      "nationality": "South Africa",
+      "rating": 88,
+      "position": "Wicketkeeper-Batsman",
+      "batingposition": "Top Order",
+      "bowlingposition": "None",
+      "price": 1200000,
+      "image": "https://i.ibb.co.com/16hph0W/quinton-de-kock.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Shakib Al Hasan",
+      "nationality": "Bangladesh",
+      "rating": 87,
+      "position": "All-Rounder",
+      "batingposition": "Middle Order",
+      "bowlingposition": "Left Arm Spin",
+      "price": 1180000,
+      "image": "https://i.ibb.co.com/QQnTg1W/Shakib-Al-Hasan.webp"
+    },
+    {
+      "id": 9,
+      "name": "Ben Stokes",
+      "nationality": "England",
+      "rating": 89,
+      "position": "All-Rounder",
+      "batingposition": "Middle Order",
+      "bowlingposition": "Fast Medium",
+      "price": 1400000,
+      "image": "https://i.ibb.co.com/MDjkQHS/Ben-Stokes.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Steve Smith",
+      "nationality": "Australia",
+      "rating": 90,
+      "position": "Batsman",
+      "batingposition": "Top Order",
+      "bowlingposition": "Leg Spin",
+      "price": 1420000,
+      "image": "https://i.ibb.co.com/9sbVxWK/Steve-Smith.jpg"
+    }
+  ]
+  
